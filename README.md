@@ -1,4 +1,4 @@
-Jose Licango - Marlon Nicolalde - Michelle Suarez
+# Jose Licango - Marlon Nicolalde - Michelle Suarez
 
 Nginx.conf 
 
