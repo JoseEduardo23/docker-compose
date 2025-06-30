@@ -1,5 +1,9 @@
 # Jose Lincango - Marlon Nicolalde - Michelle Suarez
 
+- Estructura
+
+![image](https://github.com/user-attachments/assets/7fdf3e2e-b5a3-497b-9c2f-d598b07a2ba9)
+
 Nginx.conf 
 
 ![Imagen de WhatsApp 2025-06-30 a las 16 10 09_823ffe44](https://github.com/user-attachments/assets/d318f321-4602-4b93-9624-2f72dbefc9bd)
